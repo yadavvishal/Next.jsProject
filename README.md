@@ -1,3 +1,8 @@
+we will create mini project in nextjs from the scratch.we learn all concept of basic nextjs like creating app to layout and server side rendering and static site generation also we are using bootstrap for styling.
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
